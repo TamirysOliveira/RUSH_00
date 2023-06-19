@@ -9,20 +9,3 @@ int   main (void)
   rush (123,42);
   return (0);
 }
-
-For example, rush (5,3) should display
-
-ABBBC
-B   B
-CBBBA
-
-rush (5,1) should display
-ABBBC
-
-rush (1,5) should display
-A
-B
-B
-B
-C
-
